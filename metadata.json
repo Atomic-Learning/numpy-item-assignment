@@ -10,10 +10,11 @@
     "python",
     "numpy"
   ],
-  "duration": 2,
+  "duration": 4,
   "prerequisites": [
     "numpy-indexing",
-    "python-item-assignment"
+    "python-item-assignment",
+    "python-exceptions"
   ],
   "related": [
     "exercise-numpy-array-selection-and-assignment",
