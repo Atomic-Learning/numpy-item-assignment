@@ -32,6 +32,7 @@ import numpy as np
 a = np.array(["a", "b", "c"])
 # The int 5 wil be converted to a string "5" when assigned to the array
 a[1] = 5
+print(a)
 ```
 
 If the new value cannot be converted to the data type of the array, an error will occur:
@@ -42,4 +43,5 @@ a = np.array([1, 2, 3])
 
 # The string "a" cannot be converted to an int, so this will raise an error
 a[1] = "a"
+print(a)
 ```
