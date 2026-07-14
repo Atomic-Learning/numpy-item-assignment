@@ -1,5 +1,5 @@
 {
-  "title": "Python: Item Assignment",
+  "title": "NumPy: Item Assignment",
   "slug": "numpy-item-assignment",
   "description": "Change NumPy array values by assigning to single positions in the array.",
   "authors": [
