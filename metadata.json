@@ -12,11 +12,10 @@
   ],
   "duration": 2,
   "prerequisites": [
-    "numpy-arrays-with-multiple-dimensions",
+    "numpy-indexing",
     "python-item-assignment"
   ],
   "related": [
-    "numpy-indexing",
     "exercise-numpy-array-selection-and-assignment"
   ],
   "python_packages": [
