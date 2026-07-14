@@ -12,11 +12,7 @@
   ],
   "duration": 4,
   "prerequisites": [
-    "atomic-learning-python-cells-importing-packages",
-    "numpy-selecting-items-from-an-array",
-    "numpy-every-index-in-a-dimension",
-    "numpy-everything-before-and-index",
-    "numpy-every-index-starting-from-a-value"
+    "numpy-indexing"
   ],
   "related": [
     "exercise-numpy-array-selection-and-assignment"
