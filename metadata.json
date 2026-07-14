@@ -1,5 +1,5 @@
 {
-  "title": "Python: Assigning to Items in an Array",
+  "title": "Python: Item Assignment",
   "slug": "numpy-item-assignment",
   "description": "Change NumPy array values by assigning to indexed items or slices.",
   "authors": [
