@@ -16,7 +16,9 @@
     "python-item-assignment"
   ],
   "related": [
-    "exercise-numpy-array-selection-and-assignment"
+    "exercise-numpy-array-selection-and-assignment",
+    "numpy-assigning-multiple-items-with-scalar-values",
+    "numpy-assigning-multiple-items-with-array-values"
   ],
   "python_packages": [
     "numpy"
