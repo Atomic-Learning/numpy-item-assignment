@@ -1,22 +1,27 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
-    "authors": [
-        "",
-        ""
-    ],
-    "tags": [
-        "",
-        ""
-    ],
-    "duration": 0,
-    "prerequisites": [
-        "",
-        ""
-    ],
-    "related": [
-        "",
-        ""
-    ]
+  "title": "Python: Assigning to Items in an Array",
+  "slug": "numpy-item-assignment",
+  "description": "Change NumPy array values by assigning to indexed items or slices.",
+  "authors": [
+    "chris-cooling",
+    "giorgia-del-missier"
+  ],
+  "tags": [
+    "python",
+    "numpy"
+  ],
+  "duration": 4,
+  "prerequisites": [
+    "atomic-learning-python-cells-importing-packages",
+    "numpy-selecting-items-from-an-array",
+    "numpy-every-index-in-a-dimension",
+    "numpy-everything-before-and-index",
+    "numpy-every-index-starting-from-a-value"
+  ],
+  "related": [
+    "exercise-numpy-array-selection-and-assignment"
+  ],
+  "python_packages": [
+    "numpy"
+  ]
 }
