@@ -17,6 +17,7 @@
     "python-exceptions"
   ],
   "related": [
+    "python-exceptions",
     "exercise-numpy-array-selection-and-assignment",
     "numpy-assigning-multiple-items-with-scalar-values",
     "numpy-assigning-multiple-items-with-array-values"
